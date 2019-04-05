@@ -1,0 +1,11 @@
+{
+  "name": "20181006_123933",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/cli": "^7.1.2",
+    "@babel/core": "^7.1.2",
+    "@babel/plugin-proposal-function-bind": "^7.0.0"
+  }
+}
